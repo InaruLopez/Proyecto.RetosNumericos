@@ -7,6 +7,7 @@ namespace Proyecto.RetosNumericos.Propiedades
 {
     public class Metodo
     {
+        //Teamo
         //Propiedades
         public int Iteraciones { get; set; }
         public int EvaluacionesFuncion { get; set; }
